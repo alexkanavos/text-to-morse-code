@@ -2,7 +2,7 @@
 
 A text-based Python program to convert user input into Morse Code.
 
-![morce code characters on red ruler](morce_code_ruler.png)
+![morce code terminal](screenshot.png)
 
 ## Table of Contents
 

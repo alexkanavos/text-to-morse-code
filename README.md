@@ -2,7 +2,7 @@
 
 A text-based Python program to convert user input into Morse Code.
 
-![morce code terminal](screenshot.png)
+![morse code terminal](screenshot.png)
 
 ## Table of Contents
 
@@ -59,4 +59,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](LICENSE).

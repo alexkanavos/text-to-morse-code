@@ -19,12 +19,6 @@ A text-based Python program to convert user input into Morse Code.
 - Each morse "character" is seperated from the next one with a space.
 - Morse code words are seperated with a slash "/" character.
 
-## Requirements
-
-To run this program, you need to have the following installed:
-
-- Python 3.x
-
 ## Installation
 
 1. Clone this repository to your local machine:
@@ -49,13 +43,7 @@ python3 main.py
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/YourFeature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin feature/YourFeature`)
-5. Create a new Pull Request
+Contributions are welcome! If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes.
 
 ## License
 
